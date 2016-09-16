@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>avoidAry</key>
+	<array>
+		<dict>
+			<key>book_id</key>
+			<string>4357211615266172496</string>
+			<key>book_keyWord</key>
+			<string>肉蒲团</string>
+		</dict>
+		<dict>
+			<key>book_id</key>
+			<string>753951511604082526</string>
+			<key>book_keyWord</key>
+			<string>肉蒲团</string>
+		</dict>
+	</array>
+	<key>MyUserAgent</key>
+	<string>sogousearch_android/4.8.0.2</string>
+</dict>
+</plist>
