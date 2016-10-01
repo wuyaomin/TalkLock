@@ -22,13 +22,13 @@
 	<key>MyAdSetting</key>
 	<dict>
 		<key>ADType</key>
-		<string>2</string>
+		<string>1</string>
 		<key>BaiduAD_APPid</key>
-		<string>dd7f30c7</string>
+		<string>bf111cd9</string>
 		<key>BaiduAD_KAIPing</key>
-		<string>2812354</string>
+		<string>2942624</string>
 		<key>BaiduAD_Banner</key>
-		<string>2812352</string>
+		<string>2942628</string>
 	</dict>
 </dict>
 </plist>
