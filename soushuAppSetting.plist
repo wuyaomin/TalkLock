@@ -22,7 +22,7 @@
 	<key>MyAdSetting</key>
 	<dict>
 		<key>ADType</key>
-		<string>2</string>
+		<string>0</string>
 		<key>BaiduAD_APPid</key>
 		<string>bf111cd9</string>
 		<key>BaiduAD_KAIPing</key>
